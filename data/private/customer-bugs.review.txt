@@ -1,0 +1,372 @@
+KEEP THIS FILE PRIVATE - it contains original values.
+
+=== 3705 lines changed. Random sample (BEFORE / AFTER) ===
+
+BEFORE: Reported by — *<@U09S0TEGMC0>*
+AFTER : Reported by — *USER_003*
+
+BEFORE: Reported by — *<@U09S0TEGMC0>*
+AFTER : Reported by — *USER_003*
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0ATKSY8668>
+AFTER : > <[SLACK_LINK]?record_id=Rec0ATKSY8668>
+
+BEFORE: Meeting link :-<https://omni.schedulehero.io/meet/olivia/introductions>
+AFTER : Meeting link :-<https://CUSTOMER_363.schedulehero.io/meet/olivia/introductions>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0B8KFUK3LY>
+AFTER : > <[SLACK_LINK]?record_id=Rec0B8KFUK3LY>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0B6KU2U1ED>
+AFTER : > <[SLACK_LINK]?record_id=Rec0B6KU2U1ED>
+
+BEFORE: Reported by — *<@U04TKVCJWTU>*
+AFTER : Reported by — *USER_002*
+
+BEFORE: Reported by — *<@U01BNSNFD27>*
+AFTER : Reported by — *USER_006*
+
+BEFORE: <https://app.logrocket.com/zyhobn/revenuehero-production/s/6-01a05843-1482-731a-ab71-1e55cd50a01b/0?dashboardID=NaN&filterIntent=%257B%2522type%2522%253A%2522all%2522%252C%2522children%2522%253A%255B%257B%2522level%2522%253A%2522session%2522%252C%2522type%2522%253A%2522email%2522%252C%2522where%2522%253A%257B%2522type%2522%253A%2522all%2522%252C%2522children%2522%253A%255B%257B%2522type%2522%253A%2522email%2522%252C%2522operator%2522%253A%2522IS%2522%252C%2522values%2522%253A%255B%2522austin.joseph%2540employmenthero.com%2522%255D%257D%255D%257D%257D%255D%257D&fromTab=&persistForm=true&t=1788187197943.0002>
+AFTER : <HIDDEN_051>
+
+BEFORE: Triplewhale
+AFTER : CUSTOMER_065
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BQSTBM4SV>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BQSTBM4SV>
+
+BEFORE: <mailto:peter.reale@couchbase.com|peter.reale@couchbase.com> is unable to log in, video attached where it's just loop. Can we check this out?
+AFTER : <mailto:EMAIL_205|EMAIL_205> is unable to log in, video attached where it's just loop. Can we check this out?
+
+BEFORE: > <external>:U04M03F49MW [U04M03F49MW] @ 07/10/2026 22:24:19 Z:
+AFTER : > <external>:USER_020 [USER_020] @ 07/10/2026 22:24:19 Z:
+
+BEFORE: Toddle
+AFTER : CUSTOMER_270
+
+BEFORE: Reported by — *<@U04TKVCJWTU>*
+AFTER : Reported by — *USER_002*
+
+BEFORE: Missing on RH sample emails :-<mailto:marketing@kurtgeiger-inc.com|marketing@kurtgeiger-inc.com> , <mailto:ben@outsource-bookkeeper.com|ben@outsource-bookkeeper.com> ,<mailto:van@surfbasis.com|van@surfbasis.com>
+AFTER : Missing on RH sample emails :-<mailto:EMAIL_176|EMAIL_176> , <mailto:EMAIL_177|EMAIL_177> ,<mailto:EMAIL_178|EMAIL_178>
+
+BEFORE: > <external>:U04M03F49MW [U04M03F49MW] @ 25/06/2026 09:15:32 Z:
+AFTER : > <external>:USER_020 [USER_020] @ 25/06/2026 09:15:32 Z:
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0AU2T18FEV>
+AFTER : > <[SLACK_LINK]?record_id=Rec0AU2T18FEV>
+
+BEFORE: Litmas
+AFTER : CUSTOMER_253
+
+BEFORE: 7shifts
+AFTER : CUSTOMER_210
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0B5E5EHB7W>
+AFTER : > <[SLACK_LINK]?record_id=Rec0B5E5EHB7W>
+
+BEFORE: Reported by — *<@U05HK0MNU56>*
+AFTER : Reported by — *USER_001*
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BGHBKE6RL>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BGHBKE6RL>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BLXC6KU49>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BLXC6KU49>
+
+BEFORE: <https://app.logrocket.com/zyhobn/revenuehero-production/s/6-019d9b28-7470-7f46-97a3-fd8eab233685/0?t=1776424641149.1482>
+AFTER : <HIDDEN_010>
+
+BEFORE: 7shifts
+AFTER : CUSTOMER_210
+
+BEFORE: <@U0B4CQ4LYCV> has joined the channel
+AFTER : USER_011 has joined the channel
+
+BEFORE: Can we please enable Relays and Apollo/ZoomInfo enrichment for ApartmentIQ?
+AFTER : Can we please enable Relays and Apollo/ZoomInfo enrichment for CUSTOMER_080?
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BNNUS02G3>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BNNUS02G3>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BR6EBDYP5>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BR6EBDYP5>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BJLNMJX6D>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BJLNMJX6D>
+
+BEFORE: Portraitspa
+AFTER : CUSTOMER_077
+
+BEFORE: • When they tried to schedule a new call with the same person over an internal block RH told the slot was already taken even though they tried to book within the app? <https://app.logrocket.com/zyhobn/revenuehero-production/s/6-019e4836-3d3a-7291-b9c4-fb1b8480f3ae/0?t=1779328399733.8286|Logrocket session>
+AFTER : • When they tried to schedule a new call with the same person over an internal block RH told the slot was already taken even though they tried to book within the app? <HIDDEN_019|Logrocket session>
+
+BEFORE: School Status
+AFTER : CUSTOMER_039
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BKQSK8D2T>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BKQSK8D2T>
+
+BEFORE: Motivosity
+AFTER : CUSTOMER_093
+
+BEFORE: <https://app.logrocket.com/zyhobn/revenuehero-production/s/6-01a0abe2-effe-7470-9827-b6fdf253920a/0?dashboardID=NaN&filterIntent=%257B%2522type%2522%253A%2522all%2522%252C%2522children%2522%253A%255B%257B%2522level%2522%253A%2522session%2522%252C%2522type%2522%253A%2522email%2522%252C%2522where%2522%253A%257B%2522type%2522%253A%2522all%2522%252C%2522children%2522%253A%255B%257B%2522type%2522%253A%2522email%2522%252C%2522operator%2522%253A%2522CONTAINS%2522%252C%2522values%2522%253A%255B%2522bill%2540beautiful.ai%2522%255D%257D%255D%257D%257D%255D%257D&fromTab=&persistForm=true&t=1789590319837.8213>
+AFTER : <HIDDEN_060>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0C5NK4AGDQ>
+AFTER : > <[SLACK_LINK]?record_id=Rec0C5NK4AGDQ>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0ATZJVRFLY>
+AFTER : > <[SLACK_LINK]?record_id=Rec0ATZJVRFLY>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BUWDVH4SJ>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BUWDVH4SJ>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0C2D1A2WAD>
+AFTER : > <[SLACK_LINK]?record_id=Rec0C2D1A2WAD>
+
+BEFORE: Reported by — *<@U05HK0MNU56>*
+AFTER : Reported by — *USER_001*
+
+BEFORE: |   > <external>:U01BNSNFD27 [U01BNSNFD27] @ 19/08/2026 18:30:32 Z:
+AFTER : |   > <external>:USER_006 [USER_006] @ 19/08/2026 18:30:32 Z:
+
+BEFORE: <http://winn.ai|winn.ai>
+AFTER : CUSTOMER_378
+
+BEFORE: Reported by — *<@U05HK0MNU56>*
+AFTER : Reported by — *USER_001*
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0B7Q1S0VU6>
+AFTER : > <[SLACK_LINK]?record_id=Rec0B7Q1S0VU6>
+
+BEFORE: Reported by — *<@U04TKVCJWTU>*
+AFTER : Reported by — *USER_002*
+
+BEFORE: Reported by — *<@U05HK0MNU56>*
+AFTER : Reported by — *USER_001*
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0C03CH5J83>
+AFTER : > <[SLACK_LINK]?record_id=Rec0C03CH5J83>
+
+BEFORE: Reported by — *<@U04TKVCJWTU>*
+AFTER : Reported by — *USER_002*
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0B11MV5LKT>
+AFTER : > <[SLACK_LINK]?record_id=Rec0B11MV5LKT>
+
+BEFORE:  SpendHound *Account Subdomain:*
+AFTER :  CUSTOMER_084 *Account Subdomain:*
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BB53BQXDZ>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BB53BQXDZ>
+
+BEFORE: <mailto:nicole@getgc.ai|nicole@getgc.ai>
+AFTER : <mailto:EMAIL_026|EMAIL_026>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BAS950LBU>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BAS950LBU>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0C3ZE72K7U>
+AFTER : > <[SLACK_LINK]?record_id=Rec0C3ZE72K7U>
+
+BEFORE: |   > <external>:U04TKVCJWTU [U04TKVCJWTU] @ 12/06/2026 17:35:02 Z:
+AFTER : |   > <external>:USER_002 [USER_002] @ 12/06/2026 17:35:02 Z:
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0BLFP92GMD>
+AFTER : > <[SLACK_LINK]?record_id=Rec0BLFP92GMD>
+
+BEFORE: > <https://revenuehero.slack.com/lists/T01BNSM6935/F08H066TRNC?record_id=Rec0B781B6YTW>
+AFTER : > <[SLACK_LINK]?record_id=Rec0B781B6YTW>
+
+BEFORE: Trainual
+AFTER : CUSTOMER_160
+
+
+=== 185 lines that MAY still contain personal data - check these ===
+
+line 36 [7+ digit number]:  ID).","error":"INVALID_INTEGER","name":"hubspot_owner_id","localizedErrorMessage":"005PL000001BZRjYAO was not a valid integer (for owner ID).","portalId":50629588}]```
+line 146 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1549037/details> - Rohit said he reassigned the meeting from Karthikey to Lester and when he did that, the meeting got cancelled automatically.
+line 206 [7+ digit number]: Routing log: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/2855470>
+line 562 [7+ digit number]: 215606256748	
+line 568 [7+ digit number]: 215532196995	
+line 570 [7+ digit number]: <https://www.CUSTOMER_068.com/demo?hsCtaAttrib=201435513946>
+line 604 [7+ digit number]: session ID: fdc16011-525d-40ae-a753-db5a28970204
+line 721 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1548220/details>
+line 874 [7+ digit number]: • Meeting: <https://manage.CUSTOMER_072.io/meetings/1528790/details>
+line 895 [7+ digit number]: Session ID:- 06170194-1f8f-474e-9e80-b4d178c8a657
+line 896 [7+ digit number]: Session ID:-f9cb6dc2-d2ef-43db-8721-4c977826592f
+line 1174 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1572641/details>
+line 1208 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1561410/details>
+line 1227 [7+ digit number]: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/2910885> - can we check why we showed slots for 23rd (today) in the scheduler
+line 1244 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1572360/details>
+line 1296 [7+ digit number]: Meeting details link :- <https://manage.CUSTOMER_072.io/meetings/1575949/details>
+line 1589 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1586820/details>
+line 1706 [7+ digit number]: User ID: 29320561
+line 1794 [7+ digit number]: 6f3d8f45-521a-49af-8157-f4e5893711e0
+line 1832 [7+ digit number]: • <https://manage.CUSTOMER_072.io/meetings/1595465/details>
+line 1834 [7+ digit number]: • <https://manage.CUSTOMER_072.io/meetings/1585170/details>
+line 1899 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1601590/details>
+line 1901 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1601815/details>
+line 1903 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1601581/details>
+line 1905 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1601812/details>
+line 1943 [7+ digit number]: For this meeting: 2223823c-e77b-4f5e-bc00-33549594ca9e
+line 2038 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1594183/details>
+line 2074 [7+ digit number]: Can you help check what happened to this routing? <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/2950314>
+line 2143 [7+ digit number]: "c3878292-b9b0-4892-9931-00d4db45e139"
+line 2188 [7+ digit number]: 2. d8967680-51e6-4445-b9cb-237ce0d0cdc0
+line 2370 [7+ digit number]: |   USER_009 <[SLACK_LINK]?thread_ts=1777967390.124949&channel=C09E1JLP607&message_ts=1778046717.374159|[SLACK_LINK]?thread_ts=1777967390.124949&channel=C09E1JLP607&message_ts=1778046717.374159>
+line 2471 [7+ digit number]: • Emmanuel Barnett: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/2976227>
+line 2472 [7+ digit number]: •  James Holland: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/2975600>
+line 2473 [7+ digit number]: •  ETAWN CARTER: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/2972868>
+line 2474 [7+ digit number]: • Mickey Elting: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/2948252>
+line 2624 [7+ digit number]: can we resend this  <https://manage.CUSTOMER_072.io/workflows/4255|webhook> for session id :- aff41056-e523-4170-bf51-4cebb7880116
+line 2640 [7+ digit number]: This meeting here: 72490665-1b96-41ff-9260-65d0de90bb61
+line 2731 ['@' still present]: Can we help delete all test submissions records that came from (@coder.com) domain
+line 2999 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1632675/details>
+line 3163 [7+ digit number]: ``` [1621354,
+line 3164 [7+ digit number]:   Mon, 11 May 2026 09:00:00.000000000 UTC +00:00,
+line 3166 [7+ digit number]:   Mon, 11 May 2026 09:00:00.000000000 UTC +00:00,
+line 3167 [7+ digit number]:   Wed, 20 May 2026 09:30:00.000000000 UTC +00:00],```
+line 3226 [7+ digit number]: Session ID: f5309921-14a0-4fad-9625-0f86a9eb3942
+line 3277 [7+ digit number]: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3016598>
+line 3359 [7+ digit number]: Can you help change the status back to completed? <https://manage.CUSTOMER_072.io/meetings/1637592/details>
+line 3396 [7+ digit number]: 8d6205cf-b716-451f-a237-900917323907 - logged at May 6th 11:32 PM
+line 3472 [7+ digit number]: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3030095>
+line 3473 [7+ digit number]: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3030188>
+line 3511 [7+ digit number]: •    cefd2cf4-3b3d-4488-adf8-4235621ddc59
+line 3516 [7+ digit number]: •    52201386-31da-4e78-8ced-14d0e295d73e
+line 3688 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1656623/details>
+line 3689 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1658371/details>
+line 3690 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1658371/details>
+line 3691 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1656693/details>
+line 3692 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1656743/details>
+line 3693 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1657575/details>
+line 3801 [7+ digit number]: Can you help mark this meeting as cancelled? I think this an already completed meeting: <https://manage.CUSTOMER_072.io/meetings/1659086/details>
+line 3890 [7+ digit number]: f034068f-76f1-48f8-b6f3-eb806333795d
+line 3891 [7+ digit number]: 62301018-5765-47e2-8128-fea1783b8777
+line 3932 [7+ digit number]: Meeting Link :- <https://manage.CUSTOMER_072.io/meetings/1607857/details>
+line 4116 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1673264/details>
+line 4134 [7+ digit number]: Meeting details link :- <https://manage.CUSTOMER_072.io/meetings/1649748/details>
+line 4135 [7+ digit number]: Zoom Link :- <https://CUSTOMER_160.zoom.us/j/81981438029>
+line 4199 ['@' still present]: Can we create rhsupport@palmetto (actual domain is CUSTOMER_107)?
+line 4271 [7+ digit number]: Rhys - 47760370-86e6-45b7-ac5c-980b1c500806
+line 4356 [7+ digit number]: Can you help check this submission? 49fd5527-5f89-4c51-8135-e0543167f89f
+line 4563 [7+ digit number]: a meeting got booked with a rep that was clearly blocked as OOO and i'm trying to figure out how that hppened. <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3102720>
+line 4603 [7+ digit number]: HubSpot company ID: 34447235222
+line 4637 [7+ digit number]: Can you help regenerate the calendar invite fort his meeting? <https://manage.CUSTOMER_072.io/meetings/1692809/details>
+line 4693 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1690143/details>
+line 4902 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1702750/details>
+line 4920 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1702750/details>
+line 4959 [7+ digit number]: Customer reporting this for the second time where meeting being booked and the email invite description is way off: <https://manage.CUSTOMER_072.io/meetings/1672006/details>
+line 4981 [7+ digit number]: Emilia: 9e357bb3-33a8-4f89-8204-f3068319e568
+line 5163 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1661970/details>
+line 5256 [7+ digit number]: Meeting details link: <https://manage.CUSTOMER_072.io/meetings/1709809/details>
+line 5391 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1714406/details|Melisa Sheldon> - Booked for 6/2 at 7pm EST
+line 5392 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1714223/details|Dennis Johnson> - Booked for 6/3 at 3pm EST
+line 5433 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1703042/details>
+line 5644 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1733175/details>
+line 5665 [7+ digit number]: Can you help sync this meeting: <https://manage.CUSTOMER_072.io/meetings/1732217/details> to this Salesforce contact: <https://relayfi.lightning.force.com/lightning/r/Contact/003OO00000r8xfrYAA/view>
+line 5681 [7+ digit number]: Can you help check if the sales rep reauthorised their calendar after this meeting was scheduled? <https://manage.CUSTOMER_072.io/meetings/1729589/details>
+line 5821 [7+ digit number]: Can we check if the workflow was triggered for this meeting  :-<https://manage.CUSTOMER_072.io/meetings/1736986/details>
+line 5977 [7+ digit number]: 37fe1c9d-c588-470d-8b5c-195b5714586f
+line 6011 [7+ digit number]: <[SLACK_LINK]?thread_ts=1781100971.892009&cid=C062PSFDW6Q>
+line 6082 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1741957/details>
+line 6387 [7+ digit number]: <http://manage.CUSTOMER_072.io/meetings/1727230/details|manage.CUSTOMER_072.io/meetings/1727230/details>
+line 6388 [7+ digit number]: <http://manage.CUSTOMER_072.io/meetings/1738604/details|manage.CUSTOMER_072.io/meetings/1738604/details>
+line 6476 [7+ digit number]: Meeting details :- <https://manage.CUSTOMER_072.io/meetings/1748744/details>
+line 6580 [7+ digit number]: Can we check the reschedule history for this meetings (It has been rescheduled 3 times) :- <https://manage.CUSTOMER_072.io/meetings/1717483/details>
+line 6985 [7+ digit number]: Add zoom link to the existing meetings in RevHero that are missing zoom links. <https://manage.CUSTOMER_072.io/meetings/1755939/details>
+line 7226 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1739522/details>
+line 7227 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1738782/details>
+line 7298 [7+ digit number]: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3185621>
+line 7398 [7+ digit number]: Meeting details :- <https://manage.CUSTOMER_072.io/meetings/1760985/details>
+line 7418 [7+ digit number]: Session ID: be049e61-7489-4aba-8f07-152d5964448f
+line 7443 [7+ digit number]:  - Routing Log: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3258687>
+line 7448 [7+ digit number]:  - Routing Log: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3258797>
+line 7464 [7+ digit number]: 74c55ff8-7c4a-4692-8872-669520071829
+line 7555 [7+ digit number]: 0152804c-965f-4872-bbc9-140de2dc4f4e
+line 7644 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1775039/details>
+line 8129 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1806945/details>
+line 8147 [7+ digit number]: *e6333889-041a-4e9f-8bb1-332ee6f174b3*
+line 8174 [7+ digit number]: Sample routing log :- <http://manage.CUSTOMER_072.io/inbound-router/routing-logs/3302920>
+line 8331 [7+ digit number]: Sample Routing log :- <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3310966>
+line 8347 [7+ digit number]: Can you help check why this meeting: mcp-16915110-4a53-4035-83c2-375e40162571
+line 8527 [7+ digit number]: session- <http://manage.CUSTOMER_072.io/meetings/1801920/details|manage.CUSTOMER_072.io/meetings/1801920/details>
+line 8569 [7+ digit number]: Session ID : d8457328-0edf-4c6f-b44c-24561ada8a9a
+line 8693 [7+ digit number]: rhf-c6ca01e7-aa36-4b65-9bd0-dc07721959d6-1764780731
+line 8747 [7+ digit number]: Meeting details: <https://manage.CUSTOMER_072.io/meetings/1830595/details>
+line 8916 [7+ digit number]: Can you help check this session: 88046892-b4b4-401e-b4b8-8b6ad4b06853
+line 9038 [7+ digit number]: <http://manage.CUSTOMER_072.io/meetings/1830193/details|manage.CUSTOMER_072.io/meetings/1830193/details>
+line 9076 [7+ digit number]: Can you help check this meeting: <https://manage.CUSTOMER_072.io/meetings/1838252/details>
+line 9104 [7+ digit number]: Here's the link details: <https://manage.CUSTOMER_072.io/meetings/1840277/details>
+line 9142 [7+ digit number]: currently connected to user 00544000009b5CZ with username
+line 9143 ['@' still present]: dontuse3321<mailto:EMAIL_133|@houzz.com>
+line 9509 [7+ digit number]: Session ID: 1407f345-aa30-4331-a587-49574534b305
+line 9685 [greeting followed by a name]: Hi Team, need some help understanding why ZeroBounce is disqualifying some submissions.
+line 9856 [7+ digit number]: <http://manage.CUSTOMER_072.io/meetings/1834573/details|manage.CUSTOMER_072.io/meetings/1834573/details>
+line 10129 [7+ digit number]: Hi Team, Could we please update the Salesforce User ID for <mailto:EMAIL_170|EMAIL_170> to 005VJ0000098vgf?
+line 10555 [7+ digit number]: Meeting Type: <https://manage.CUSTOMER_072.io/meetings/1864098/details>
+line 10861 [7+ digit number]: Meeting: <https://manage.CUSTOMER_072.io/meetings/1902318/details>
+line 10918 [7+ digit number]: Can you help check why didn't we update this meeting owner as the lead owner for this meeting? <https://manage.CUSTOMER_072.io/meetings/1911335/details>
+line 10971 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1907802/details>
+line 10972 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1849682/details>
+line 11015 [7+ digit number]: Session: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3501245>
+line 11031 [7+ digit number]: • Najla Missaoui (<mailto:EMAIL_184|EMAIL_184>) (<https://manage.CUSTOMER_072.io/meetings/1878084/details|This is the meeting>)
+line 11032 [7+ digit number]: • Crystal Rafte (<mailto:EMAIL_185|EMAIL_185>) (<https://manage.CUSTOMER_072.io/meetings/1911921/details|This is the meeting>)
+line 11288 [7+ digit number]: <mailto:EMAIL_186|EMAIL_186> scheduled a meeting with CUSTOMER_345 on Aug 4th with another AE, The admin then reassigned the meeting to a different Rep (Rachel Benz) for Aug 6. Rachel told the admin that she saw an cal event for Aug 4 which showed up after reassignment which she deleted. It is shown as <https://manage.CUSTOMER_072.io/meetings/1913834/details|canceled> in RH.
+line 11292 [7+ digit number]: Zoom iD = 99044084809
+line 11389 [7+ digit number]: Here's the link:<https://manage.CUSTOMER_072.io/meetings/1912865/details>
+line 11543 [7+ digit number]: Can you help check this meeting: 79531624-4176-4f2f-96bb-cbf62ba9c2d2
+line 11588 [7+ digit number]: *Meeting Details:* <https://manage.CUSTOMER_072.io/meetings/1758537/details>
+line 11717 [greeting followed by a name]: Hi Team, Please enable Apollo Enrichment for this customer. They are going to use their own API key FYI.
+line 11740 [7+ digit number]: • f1556335-d64c-44fa-8577-08bd9a5d9782
+line 12001 [7+ digit number]: PML session - <http://manage.CUSTOMER_072.io/meetings/1906152/details|manage.CUSTOMER_072.io/meetings/1906152/details> did not trigger this workflow <http://manage.CUSTOMER_072.io/workflows/6364|manage.CUSTOMER_072.io/workflows/6364> (webhook).
+line 12120 [7+ digit number]: • Checked the routing logs (Session ID: 956f82bc-9266-42ba-aaa3-91848286ded0)
+line 12392 [7+ digit number]: <http://manage.CUSTOMER_072.io/meetings/1973373/details|manage.CUSTOMER_072.io/meetings/1973373/details>
+line 12395 [7+ digit number]: 87636050-511b-4a9a-81e6-691e4aef006f
+line 12465 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1960973/details>
+line 12466 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1976037/details>
+line 12467 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1962498/details>
+line 12580 [7+ digit number]: • <https://manage.CUSTOMER_072.io/meetings/1905318/details>
+line 12581 [7+ digit number]: • <https://manage.CUSTOMER_072.io/meetings/1972989/details>
+line 12697 [7+ digit number]: <http://manage.CUSTOMER_072.io/meetings/1963186/details|manage.CUSTOMER_072.io/meetings/1963186/details>
+line 12731 [greeting followed by a name]: Hello Team, CUSTOMER_024 wants to know when this workflow was created. Checked LR wasn't created in the last 30 days. Can we get the creation date?
+line 12751 [7+ digit number]:  Session ID: `2283e67e-387d-472a-8532-5e2402797996`
+line 12809 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1958491/details>
+line 12932 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/1990507/details>
+line 12934 [7+ digit number]: Here's the session ID: fd47b36c-79fd-42da-999a-740482635ed5
+line 13017 [7+ digit number]: Meeting details link :- <https://manage.CUSTOMER_072.io/meetings/2000796/details>
+line 13474 [7+ digit number]: A meeting was booked over a busy slot for a rep. Link: <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3717073>
+line 13478 [7+ digit number]: Meeting details link: <https://manage.CUSTOMER_072.io/meetings/2020221/details>
+line 13518 [greeting followed by a name]: Hello Team,
+line 13527 [7+ digit number]: Meeting URL: <https://manage.CUSTOMER_072.io/meetings/2028721/details>
+line 13635 [7+ digit number]: 91191a95-bc67-41b8-96ef-9e4542249329
+line 13663 [7+ digit number]: Meeting details link :- <https://manage.CUSTOMER_072.io/meetings/2015331/details>
+line 13698 [7+ digit number]: <http://manage.CUSTOMER_072.io/inbound-router/routing-logs/3742378|manage.CUSTOMER_072.io/inbound-router/routing-logs/3742378>
+line 13702 [7+ digit number]: They do have the object permissions + the error is not present for all submissions for example, this <http://manage.CUSTOMER_072.io/inbound-router/routing-logs/3742098|session> got created.
+line 13772 [7+ digit number]: session ID: b2b8993c-0628-4d15-9570-b465585227bc
+line 13846 [7+ digit number]: <https://manage.CUSTOMER_072.io/meetings/2046132/details> (session)
+line 13868 [7+ digit number]: from the pages <https://www.CUSTOMER_092.com/lp/resource-planning-software?utm_source=bing&utm_medium=cpc&utm_campaign=RL_Resource_Management_ANZ&utm_source=bing&utm_medium=cpc&utm_campaign=RL_Resource%20Management_ANZ&utm_term=best%20resource%20planning%20software&utm_content=84731709934921&msclkid=6d0a116a965f1323ebab7bffd39124ae> and <https://www.CUSTOMER_092.com/lp/why-CUSTOMER_092?utm_source=googleads&utm_medium=cpc&utm_campaign=RL_Brand_NA&utm_source=googleads&utm_medium=cpc&utm_campaign=rl_brand_na_rocket+lane&utm_content=&utm_term=rocket%20lane&hsa_acc=4967089007&hsa_cam=20916774853&hsa_grp=180866024397&hsa_ad=757733471503&hsa_src=g&hsa_tgt=kwd-1287108681819&hsa_kw=rocket%20lane&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=20916774853&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWjIXu66fbsJ246vBljlEs4LdulTAUQ75b2OfcKOG3wZm8HQOLtSaJhoCorsQAvD_BwE>
+line 13889 [7+ digit number]: Need your help in checking why an event wasn't created for this personal meeting link: <https://manage.CUSTOMER_072.io/meetings/2032505/details>
+line 13986 [7+ digit number]: Meeting link :- <http://manage.CUSTOMER_072.io/meetings/2035304/details|manage.CUSTOMER_072.io/meetings/2035304/details>
+line 14313 [7+ digit number]: • <https://manage.CUSTOMER_072.io/meetings/2060102/details>
+line 14314 [7+ digit number]: • <https://manage.CUSTOMER_072.io/meetings/2061069/details>
+line 14315 [7+ digit number]: • <https://manage.CUSTOMER_072.io/meetings/2061055/details>
+line 14359 [7+ digit number]: Meeting details: <https://manage.CUSTOMER_072.io/meetings/2032418/details>
+line 14490 [7+ digit number]: aeb8b3d7-a5b1-46d2-a188-834316686ba7
+line 14516 [7+ digit number]: *Routing log:* <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3818067>
+line 14710 [7+ digit number]: Meeting details: <https://manage.CUSTOMER_072.io/campaign-router/routing-logs/2255875>
+line 14781 [7+ digit number]: Routing Logs :- <https://manage.CUSTOMER_072.io/inbound-router/routing-logs/3821296>
+line 14853 [7+ digit number]: • `9a7ced53-9b3d-4028-a74a-65ea4990539c`
+line 14854 [7+ digit number]: • `2097631d-dfd0-4bd7-8169-55361c2cfe3d`
+line 14945 [7+ digit number]: Meeting details link:<http://manage.CUSTOMER_072.io/meetings/2072552/details|manage.CUSTOMER_072.io/meetings/2072552/details>
+line 15231 [7+ digit number]: <http://manage.CUSTOMER_072.io/meetings/2066561/details|manage.CUSTOMER_072.io/meetings/2066561/details>
+line 15318 [7+ digit number]: Meeting details: <https://manage.CUSTOMER_072.io/meetings/2085587/details>
+line 15424 [7+ digit number]:  Account with <http://okstate.edu|okstate.edu> as its domain already exists in SF with Ray as SDR (ID 0013200001GOmbbAAD)
+line 15473 [7+ digit number]: Routing log: <http://manage.CUSTOMER_072.io/inbound-router/routing-logs/3853195|manage.CUSTOMER_072.io/inbound-router/routing-logs/3853195>
+line 15687 [7+ digit number]: Meeting details: <https://manage.CUSTOMER_072.io/meetings/2108900/details>
+line 15971 [7+ digit number]:  <[SLACK_LINK]?thread_ts=1790958815.460769&cid=C08GE99LUR2>
+line 16030 [7+ digit number]: • Meeting details: <https://manage.CUSTOMER_072.io/meetings/2125600/details>
+line 16133 [greeting followed by a name]: Hello Team,
+line 16174 [7+ digit number]: Meeting details: <https://manage.CUSTOMER_072.io/meetings/2139687/details>

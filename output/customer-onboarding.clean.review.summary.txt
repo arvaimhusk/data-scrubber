@@ -1,0 +1,125 @@
+KEEP THIS FILE PRIVATE - examples may contain data the redactor missed.
+
+261 flagged lines -> 23 groups: 20 to CHECK, 3 probably safe.
+Decide each group ONCE. Biggest groups first.
+
+
+=== WORDS AFTER A GREETING ("Hi Priya", "Thanks Rohan") ===
+If it is a person or customer -> add the word to terms.txt. If not -> add it to allow.txt.
+
+[probably safe]     6 x  Team
+                lines: 335, 339, 360, 377, 388, 433
+                e.g. line 9685 [greeting followed by a name]: Hi Team, need some help understanding why ZeroBounce is disqualifying some submissions.
+                e.g. line 10129 [7+ digit number]: Hi Team, Could we please update the Salesforce User ID for <mailto:EMAIL_170|EMAIL_170> to 005VJ0000098vgf?
+                e.g. line 11717 [greeting followed by a name]: Hi Team, Please enable Apollo Enrichment for this customer. They are going to use their own API key FYI.
+
+
+
+=== TOKENS WITH AN @ ===
+A leftover handle or partial email -> add to terms.txt. Code/@here/etc -> allow.txt.
+
+[        CHECK]     1 x  mailto:ruchi.r@gymdesk.com
+                lines: 26
+                e.g. BEFORE: Can you check why we don't have a routing log session for this contact? <mailto:ruchi.r@gymdesk.com|ruchi.r@gymdesk.com> - They submitted a request on o
+
+[        CHECK]     1 x  ruchi.r@gymdesk.com
+                lines: 26
+                e.g. BEFORE: Can you check why we don't have a routing log session for this contact? <mailto:ruchi.r@gymdesk.com|ruchi.r@gymdesk.com> - They submitted a request on o
+
+[        CHECK]     1 x  mailto:paola.sierra@rutgers.edu
+                lines: 56
+                e.g. BEFORE: <mailto:paola.sierra@rutgers.edu|paola.sierra@rutgers.edu>
+
+[        CHECK]     1 x  paola.sierra@rutgers.edu
+                lines: 56
+                e.g. BEFORE: <mailto:paola.sierra@rutgers.edu|paola.sierra@rutgers.edu>
+
+[        CHECK]     1 x  mailto:erica@getsquire.com
+                lines: 143
+                e.g. BEFORE: <mailto:erica@getsquire.com|erica@getsquire.com> accessed her profile page to see a <http://trainual.com|trainual.com> email address. LR added here.
+
+[        CHECK]     1 x  erica@getsquire.com
+                lines: 143
+                e.g. BEFORE: <mailto:erica@getsquire.com|erica@getsquire.com> accessed her profile page to see a <http://trainual.com|trainual.com> email address. LR added here.
+
+[        CHECK]     1 x  rhsupport@palmetto
+                lines: 267
+                e.g. line 4199 ['@' still present]: Can we create rhsupport@palmetto (actual domain is CUSTOMER_107)?
+
+
+
+=== LONG NUMBERS, GROUPED BY FORMAT ===
+IDs, timestamps, hashes are safe to keep. Phone/account numbers -> add a regex: line to terms.txt.
+
+[        CHECK]   142 x  Link containing a long number
+                lines: 5, 6, 8, 9, 44, 45, 86, 87 ...
+                e.g. https://manage.revenuehero.io/meetings/1758537/details
+                e.g. https://manage.CUSTOMER_072.io/meetings/1758537/details
+                e.g. https://manage.revenuehero.io/meetings/1594183/details
+
+[        CHECK]    11 x  Unknown format a{6}.A{8}_9{3}.a{2}/a{8}/9{7}/a{7}
+                lines: 295, 296, 316, 323, 338, 364, 367, 375 ...
+                e.g. manage.CUSTOMER_072.io/meetings/1727230/details
+                e.g. manage.CUSTOMER_072.io/meetings/1738604/details
+                e.g. manage.CUSTOMER_072.io/meetings/1801920/details
+
+[        CHECK]     3 x  Unknown format 9{2}:9{2}:9{2}.9{9}
+                lines: 239, 240, 241
+                e.g. 09:00:00.000000000
+                e.g. 09:30:00.000000000
+
+[        CHECK]     2 x  Unknown format 9{12}
+                lines: 196, 197
+                e.g. 215606256748
+                e.g. 215532196995
+
+[        CHECK]     2 x  Unknown format 9{11}
+                lines: 272, 355
+                e.g. 34447235222
+                e.g. 99044084809
+
+[        CHECK]     2 x  Unknown format a{6}.A{8}_9{3}.a{2}/a{7}-a{6}/a{7}-a{4}/9{7}
+                lines: 393, 427
+                e.g. manage.CUSTOMER_072.io/inbound-router/routing-logs/3742378
+                e.g. manage.CUSTOMER_072.io/inbound-router/routing-logs/3853195
+
+[        CHECK]     1 x  Unknown format :9{8}}]
+                lines: 188
+                e.g. :50629588}]
+
+[        CHECK]     1 x  Unknown format 9{8}
+                lines: 214
+                e.g. 29320561
+
+[        CHECK]     1 x  Unknown format [9{7}
+                lines: 238
+                e.g. [1621354
+
+[        CHECK]     1 x  Unknown format 9{11}a9A{2}
+                lines: 326
+                e.g. 00544000009b5CZ
+
+[        CHECK]     1 x  Unknown format a=9{13}
+                lines: 330
+                e.g. t=1783961514636
+
+[        CHECK]     1 x  Unknown format 9{3}A{2}9{7}a{3}?
+                lines: 339
+                e.g. 005VJ0000098vgf?
+
+[        CHECK]     1 x  Unknown format 9{10}A{2}a{3}A{3}
+                lines: 426
+                e.g. 0013200001GOmbbAAD
+
+[probably safe]    98 x  UUID / request ID
+                lines: 47, 48, 128, 129, 190, 194, 195, 199 ...
+                e.g. https://app.logrocket.com/zyhobn/revenuehero-production/s/6-019dbfb1-15bc-751c-b
+                e.g. https://app.logrocket.com/zyhobn/CUSTOMER_072-production/s/6-019dbfb1-15bc-751c-
+                e.g. https://app.logrocket.com/zyhobn/revenuehero-production/s/6-019e16cb-14bf-7c75-9
+
+[probably safe]     4 x  Slack timestamp (1712345678.123456)
+                lines: 227, 227, 292, 430
+                e.g. [SLACK_LINK]?thread_ts=1777967390.124949&channel=C09E1JLP607&message_ts=17780467
+                e.g. [SLACK_LINK]?thread_ts=1781100971.892009&cid=C062PSFDW6Q
+                e.g. [SLACK_LINK]?thread_ts=1790958815.460769&cid=C08GE99LUR2
+

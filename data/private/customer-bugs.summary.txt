@@ -1,0 +1,26 @@
+KEEP THIS FILE PRIVATE - examples may contain data the redactor missed.
+
+0 flagged lines -> 0 groups: 0 to CHECK, 0 probably safe, 199 hits already in allow.txt.
+Decide each CHECK group ONCE and copy ONE of its two ready-made lines:
+  harmless  -> the allow.txt line, or just paste one of its e.g. lines into allow.txt
+               (either way the WHOLE group is allowed; then re-run src/summarize_review.py)
+  sensitive -> the terms.txt line  (then re-run src/redact_slack.py and src/summarize_review.py)
+'probably safe' groups need nothing.
+
+Whole groups allowed because an example of them is in allow.txt:
+  allow.txt line   1  ->  Link: manage.revenuehero.io
+  allow.txt line   2  ->  Link: manage.CUSTOMER_072.io
+  allow.txt line   4  ->  Unknown format 9{2}:9{2}:9{2}.9{9}
+  allow.txt line   5  ->  Unknown format 9{12}
+  allow.txt line   6  ->  Unknown format 9{11}
+  allow.txt line  11  ->  Unknown format :9{8}}]
+  allow.txt line  12  ->  Unknown format [9{7}
+  allow.txt line  13  ->  Unknown format 9{11}a9A{2}
+  allow.txt line  14  ->  Unknown format a=9{13}
+  allow.txt line  15  ->  Unknown format 9{3}A{2}9{7}a{3}?
+  allow.txt line  16  ->  Unknown format 9{10}A{2}a{3}A{3}
+  allow.txt line  20  ->  Slack timestamp (1712345678.123456)
+  allow.txt line  31  ->  Unknown format 9{8}
+  allow.txt line  36  ->  UUID / request ID
+  allow.txt line  38  ->  Link: app.hubspot.com
+  allow.txt line  39  ->  Link: www.CUSTOMER_068.com

@@ -1,0 +1,20 @@
+ruchi.r@gymdesk.com
+ruchi.r@gymdesk.com
+paola.sierra@rutgers.edu
+mailto:erica@getsquire.com
+erica@getsquire.com
+https://www.loom.com/share/497d054e7adf4b60b08388895f11c472
+regex:(?:https?://)?(?:www\.)?loom\.com[/?#:][^\s>|]*
+regex:(?:https?://)?app\.hubspot\.com[/?#:][^\s>|]*
+regex:(?:https?://)?app\.logrocket\.com[/?#:][^\s>|]*
+regex:(?:https?://)?app\-eu1\.hubspot\.com[/?#:][^\s>|]*
+group:Link: app.logrocket.com
+group:Link: app-eu1.hubspot.com
+group:Link: us02web.zoom.us
+group:Link: docs.google.com
+regex:(?:https?://)?docs\.google\.com[/?#:][^\s>|]*
+https://us02web.zoom.us/j/85981630286?pwd=[SECRET]
+regex:(?<!\d)91[6-9]\d{9}(?!\d)
+regex:(?<!\d)1[2-9]\d{9}(?!\d)
+Link: app.hubspot.com
+Link: app.hubspot.com
